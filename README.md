@@ -1,8 +1,25 @@
-# Daily-Calorie-Tracker
-A simple python daily Calorie tracker for tracking daily calorie intake this program allows users to input their meals,record calorie amounts,and compare total intake with a daily calorie limit
-##Student Info
+# Daily Calorie Tracker
 
-Name-Shaurya Vinay Singh
-roll no-2501010296
-subject-python programming
-date-10 oct 2025
+A simple command-line calorie tracker written in Python. Log your meals, record calorie amounts, and compare your total intake against a daily calorie limit.
+
+## Features
+
+- Add meals with calorie amounts
+- Track total intake for the day
+- Compare intake against a configurable daily limit
+
+## Run
+
+```bash
+python trackerhw.py
+```
+
+Follow the on-screen prompts to log meals and see your running total.
+
+## Tech
+
+- Python 3 (standard library only — no dependencies)
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
